@@ -14,5 +14,9 @@ b. Hành động 2 : tiền hành lấy dữ liệu từ server về ( dữ li�
 3.1 Công nghệ Node-Red (hiển thị trên pc) <br/>
 3.2 Công nghệ React Native (hiển thị trên mobile) <br/>
 3.3 Socket.io (Hổ trợ việc realtime) <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v4Al-_IYfTk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<html>
+  <body>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/v4Al-_IYfTk" frameborder="0" allow="autoplay; encrypted-media"          allowfullscreen></iframe>
+  </body>
+</html>
 
