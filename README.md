@@ -8,7 +8,7 @@ b. Hành động 2 : tiền hành lấy dữ liệu từ server về ( dữ li�
 1.2 Các cảm biến được dùng : Nhiệt độ , độ ẩm , khí gas , khí co2 , mưa <br/>
 1.3 Bóng đèn <br/>
 <b>2. Server để tiến hành lưu dữ liệu từ Python3 đưa lên</b> <br/>
-2.1 Server (Nodejs + ExpressJs) <br/>
+2.1 Server (Nodejs + Expressjs) <br/>
 2.2 CSDL MongoDB <br/>
 <b>3. Các công nghệ phần mềm hổ trợ việc hiển thị giao ra giao diện cho người dùng có thể giám sát và điều khiển (Lấy dữ liệu từ server) </b><br/>
 3.1 Công nghệ Node-Red (hiển thị trên pc) <br/>
